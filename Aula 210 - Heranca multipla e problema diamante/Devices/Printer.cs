@@ -2,7 +2,7 @@
 
 namespace Aula_210___Heranca_multipla_e_problema_diamante.Devices
 {
-    class Printer:Device
+    class Printer:Device,IPrinter
     {
         public override void ProcessDoc(string document)
         {

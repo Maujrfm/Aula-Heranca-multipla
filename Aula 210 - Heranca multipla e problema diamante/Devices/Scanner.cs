@@ -2,7 +2,7 @@
 
 namespace Aula_210___Heranca_multipla_e_problema_diamante.Devices
 {
-    class Scanner: Device
+    class Scanner: Device,IScanner
     {
         public override void ProcessDoc(string document)
         {
