@@ -1,0 +1,16 @@
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\bin\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.exe
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\bin\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.deps.json
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\bin\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.runtimeconfig.json
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\bin\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.runtimeconfig.dev.json
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\bin\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.dll
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\bin\Debug\net5.0\ref\Aula 210 - Heranca multipla e problema diamante.dll
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\bin\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.pdb
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\obj\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.csproj.AssemblyReference.cache
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\obj\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.GeneratedMSBuildEditorConfig.editorconfig
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\obj\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.AssemblyInfoInputs.cache
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\obj\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.AssemblyInfo.cs
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\obj\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\obj\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.dll
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\obj\Debug\net5.0\ref\Aula 210 - Heranca multipla e problema diamante.dll
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\obj\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.pdb
+F:\ws-vs2019\Projetos\Aula 210 - Heranca multipla e problema diamante\Aula 210 - Heranca multipla e problema diamante\obj\Debug\net5.0\Aula 210 - Heranca multipla e problema diamante.genruntimeconfig.cache
